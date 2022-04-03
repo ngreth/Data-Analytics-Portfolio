@@ -1,3 +1,6 @@
+-- The data used in this project from ourworldindata.org includes daily COVID-19 records from January 29,2020 to March 25, 2022.
+-- The number of cases, deaths, and vaccinations for each country in the world are analyzed with SQL Server.
+
 -- Select Data that we are using (source: https://ourworldindata.org/covid-deaths).
 
 SELECT *
