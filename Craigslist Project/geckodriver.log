@@ -1,0 +1,36 @@
+1667665439809	geckodriver	INFO	Listening on 127.0.0.1:63838
+1667665566978	geckodriver	INFO	Listening on 127.0.0.1:63862
+1667665570013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63863" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ngret\\AppData\\Local\\Temp\\rust_mozprofileev6ohh"
+1667665674137	geckodriver	INFO	Listening on 127.0.0.1:64150
+1667665677166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ngret\\AppData\\Local\\Temp\\rust_mozprofilewSarU1"
+1667665677507	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ngret\\AppData\\Local\\Temp\\rust_mozprofilewSarU1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64151/devtools/browser/cdfb6565-d9ea-42d2-b9c5-ab473d45ceb8
+1667665679829	Marionette	INFO	Listening on port 64157
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+1667665680358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667665681803	Marionette	INFO	Stopped listening on port 64157
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1667687709575	geckodriver	INFO	Listening on 127.0.0.1:49332
+1667687712617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49333" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ngret\\AppData\\Local\\Temp\\rust_mozprofilek0MvUd"
+1667687713158	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ngret\\AppData\\Local\\Temp\\rust_mozprofilek0MvUd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49333/devtools/browser/42535560-68ff-49f0-b829-692f12a5a202
+1667687715451	Marionette	INFO	Listening on port 49339
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+1667687715781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667687717175	Marionette	INFO	Stopped listening on port 49339
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1667688814551	geckodriver	INFO	Listening on 127.0.0.1:50017
+1667688817571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50018" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ngret\\AppData\\Local\\Temp\\rust_mozprofileLFJxhO"
+1667688817936	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ngret\\AppData\\Local\\Temp\\rust_mozprofileLFJxhO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50018/devtools/browser/c43bc7f0-514a-42f7-8723-a0c5c863f019
+1667688820203	Marionette	INFO	Listening on port 50024
+1667688820246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+1667688822435	Marionette	INFO	Stopped listening on port 50024
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
