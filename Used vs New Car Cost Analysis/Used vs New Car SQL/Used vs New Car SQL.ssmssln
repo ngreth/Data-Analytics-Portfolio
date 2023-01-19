@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Used vs New Car SQL", "Used vs New Car SQL\Used vs New Car SQL.ssmssqlproj", "{09C234FA-563E-485A-A2BB-86E908C51778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09C234FA-563E-485A-A2BB-86E908C51778}.Default|Default.ActiveCfg = Default
+		{40FF8674-99FD-451D-B3AD-9210EA72B7C8}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31FBE97B-BE6D-4081-9CB5-D8A0F43F82CA}
+	EndGlobalSection
+EndGlobal
