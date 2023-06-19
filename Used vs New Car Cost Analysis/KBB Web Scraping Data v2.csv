@@ -1,0 +1,394 @@
+title,price,new_used_or_certified,year,sorted_by,mileage,car_make,scrape_date
+Used 2005 Ford Escape XLT,"7,286",Used,2005,Date - Newest,"22,230 miles",Ford,6/16/2023
+Used 2021 Ford Bronco Sport Big Bend,"30,700",Used,2021,Date - Newest,"13,570 miles",Ford,6/16/2023
+Certified 2022 Toyota Tundra SR5,"52,791",Certified,2022,Date - Newest,0,Toyota,6/16/2023
+Used 2023 Lamborghini Urus S,"329,888",Used,2023,Date - Newest,"9,300 miles",Lamborghini,6/16/2023
+Used 2021 Lamborghini Urus,"254,888",Used,2021,Date - Newest,"23,336 miles",Lamborghini,6/16/2023
+Certified 2021 Mercedes-Benz G 63 AMG 4MATIC,"195,333",Certified,2021,Date - Newest,0,Mercedes-Benz,6/16/2023
+Used 2023 Land Rover Range Rover Long Wheelbase Autobiography,"194,990",Used,2023,Date - Newest,"54,527 miles",Land Rover,6/16/2023
+Used 2023 Land Rover Range Rover Long Wheelbase Autobiography,"194,990",Used,2023,Date - Newest,"54,527 miles",Rover,6/16/2023
+New 2023 Chevrolet Corvette Z06,"154,960",New,2023,Date - Newest,0,Chevrolet,6/16/2023
+Used 2016 Land Rover Range Rover Evoque SE,"22,995",Used,2016,Date - Newest,"4,000 miles",Land Rover,6/16/2023
+Used 2016 Land Rover Range Rover Evoque SE,"22,995",Used,2016,Date - Newest,"4,000 miles",Rover,6/16/2023
+New 2023 Chevrolet Corvette Z06,"147,490",New,2023,Date - Newest,0,Chevrolet,6/16/2023
+New 2023 Cadillac Escalade Sport Platinum,"133,010",New,2023,Date - Newest,0,Cadillac,6/16/2023
+New 2024 BMW X5 M Competition,"132,020",New,2024,Date - Newest,0,BMW,6/16/2023
+New 2023 Cadillac Escalade ESV Sport Platinum,"130,910",New,2023,Date - Newest,0,Cadillac,6/16/2023
+New 2023 Cadillac Escalade Sport Platinum,"129,685",New,2023,Date - Newest,0,Cadillac,6/16/2023
+New 2023 Cadillac Escalade Premium Luxury Platinum,"129,420",New,2023,Date - Newest,0,Cadillac,6/16/2023
+Used 2022 Cadillac Escalade ESV Sport Platinum,"116,548",Used,2022,Date - Newest,"23,600 miles",Cadillac,6/16/2023
+New 2023 Lincoln Navigator L Reserve,"105,420",New,2023,Date - Newest,0,Lincoln,6/16/2023
+New 2024 GMC Sierra 3500 Denali Ultimate,"102,985",New,2024,Date - Newest,0,GMC,6/16/2023
+Used 2021 Ford Mustang Shelby GT500,"100,491",Used,2021,Date - Newest,"16,921 miles",Ford,6/16/2023
+Used 2021 Ford Mustang Shelby GT500,"100,491",Used,2021,Date - Newest,"16,921 miles",Shelby,6/16/2023
+New 2023 Jeep Grand Wagoneer Series II,"99,380",New,2023,Date - Newest,0,Jeep,6/16/2023
+New 2024 BMW X7 xDrive40i,"98,590",New,2024,Date - Newest,0,BMW,6/16/2023
+New 2023 RAM 2500 Power Wagon,"96,300",New,2023,Date - Newest,0,,6/16/2023
+New 2023 Lincoln Navigator Reserve,"95,455",New,2023,Date - Newest,0,Lincoln,6/16/2023
+Used 2021 Cadillac Escalade ESV Sport,"94,900",Used,2021,Date - Newest,"27,037 miles",Cadillac,6/16/2023
+Used 2022 Land Rover Range Rover Sport HSE Dynamic,"94,888",Used,2022,Date - Newest,0,Land Rover,6/16/2023
+Used 2022 Land Rover Range Rover Sport HSE Dynamic,"94,888",Used,2022,Date - Newest,0,Rover,6/16/2023
+Used 2022 Land Rover Range Rover Sport HSE Dynamic,"94,888",Used,2022,Date - Newest,0,Dynamic,6/16/2023
+New 2023 Mercedes-Benz GLS 450 4MATIC,"94,455",New,2023,Date - Newest,0,Mercedes-Benz,6/16/2023
+New 2023 RAM 2500 Longhorn,"94,210",New,2023,Date - Newest,0,,6/16/2023
+New 2023 Ford F250 Lariat,"93,720",New,2023,Date - Newest,0,Ford,6/16/2023
+New 2022 RAM 1500 TRX,"93,260",New,2022,Date - Newest,0,,6/16/2023
+New 2023 Chevrolet Corvette Stingray Preferred Cpe,"92,815",New,2023,Date - Newest,0,Chevrolet,6/16/2023
+New 2023 Ford F150 Raptor,"92,662",New,2023,Date - Newest,0,Ford,6/16/2023
+New 2023 GMC Yukon XL Denali,"91,895",New,2023,Date - Newest,0,GMC,6/16/2023
+Used 2021 Cadillac Escalade Premium Luxury,"91,308",Used,2021,Date - Newest,0,Cadillac,6/16/2023
+Used 2023 Ford F350 Lariat,"90,995",Used,2023,Date - Newest,0,Ford,6/16/2023
+New 2023 Ford F250 4x4 Crew Cab Super Duty,"90,875",New,2023,Date - Newest,0,Ford,6/16/2023
+New 2023 Ford F250 4x4 Crew Cab Super Duty,"90,285",New,2023,Date - Newest,0,Ford,6/16/2023
+New 2023 Chevrolet Tahoe High Country,"90,020",New,2023,Date - Newest,0,Chevrolet,6/16/2023
+Used 2022 Land Rover Range Rover Sport HSE Dynamic,"89,995",Used,2022,Date - Newest,0,Land Rover,6/16/2023
+Used 2022 Land Rover Range Rover Sport HSE Dynamic,"89,995",Used,2022,Date - Newest,0,Rover,6/16/2023
+Used 2022 Land Rover Range Rover Sport HSE Dynamic,"89,995",Used,2022,Date - Newest,0,Dynamic,6/16/2023
+New 2024 Mercedes-Benz GLE 53 AMG 4MATIC,"89,610",New,2024,Date - Newest,0,Mercedes-Benz,6/16/2023
+New 2023 Ford F150 Lightning Lariat,"89,409",New,2023,Date - Newest,0,Ford,6/16/2023
+Used 2022 Lincoln Navigator L Reserve,"88,977",Used,2022,Date - Newest,0,Lincoln,6/16/2023
+Used 2022 Ford F250 Lariat,"88,650",Used,2022,Date - Newest,0,Ford,6/16/2023
+New 2023 Ford F250 Lariat,"88,280",New,2023,Date - Newest,0,Ford,6/16/2023
+New 2023 RAM 3500 Laramie,"87,730",New,2023,Date - Newest,0,,6/16/2023
+New 2024 BMW X5 xDrive50e,"87,595",New,2024,Date - Newest,0,BMW,6/16/2023
+New 2023 RAM 2500 Laramie,"87,510",New,2023,Date - Newest,0,,6/16/2023
+New 2023 Chevrolet Silverado 1500 ZR2,"86,805",New,2023,Date - Newest,0,Chevrolet,6/16/2023
+Used 2021 Tesla Model S Plaid,"86,777",Used,2021,Date - Newest,0,Tesla,6/16/2023
+New 2023 Ford F150 Limited,"86,570",New,2023,Date - Newest,0,Ford,6/16/2023
+New 2023 GMC Sierra 1500 Denali Ultimate,"86,155",New,2023,Date - Newest,0,GMC,6/16/2023
+New 2024 GMC Sierra 2500 AT4,"85,950",New,2024,Date - Newest,0,GMC,6/16/2023
+New 2024 Chevrolet Silverado 3500 LTZ,"85,315",New,2024,Date - Newest,0,Chevrolet,6/16/2023
+New 2024 Chevrolet Silverado 3500 LTZ,"85,030",New,2024,Date - Newest,0,Chevrolet,6/16/2023
+Used 2019 Dodge Challenger SRT Hellcat Redeye,"84,999",Used,2019,Date - Newest,0,Dodge,6/16/2023
+Used 2019 Dodge Challenger SRT Hellcat Redeye,"84,999",Used,2019,Date - Newest,0,SRT,6/16/2023
+New 2024 BMW X6 xDrive40i,"84,700",New,2024,Date - Newest,0,BMW,6/16/2023
+New 2023 Ford F250 Lariat,"84,420",New,2023,Date - Newest,0,Ford,6/16/2023
+New 2023 Mercedes-Benz EQE 350+ SUV,"84,095",New,2023,Date - Newest,0,Mercedes-Benz,6/16/2023
+New 2023 Chevrolet Tahoe High Country,"83,940",New,2023,Date - Newest,0,Chevrolet,6/16/2023
+New 2023 Ford Expedition Timberline,"83,860",New,2023,Date - Newest,0,Ford,6/16/2023
+New 2023 Ford Expedition Timberline,"83,860",New,2023,Date - Newest,0,Ford,6/16/2023
+New 2023 Ford Expedition King Ranch,"83,845",New,2023,Date - Newest,0,Ford,6/16/2023
+Used 2022 Ford F450 XLT,"83,554",Used,2022,Date - Newest,0,Ford,6/16/2023
+New 2023 Toyota Sequoia Capstone,"83,285",New,2023,Date - Newest,0,Toyota,6/16/2023
+New 2023 Ford F250 XLT,"83,190",New,2023,Date - Newest,0,Ford,6/16/2023
+New 2024 BMW X5 xDrive50e,"82,495",New,2024,Date - Newest,0,BMW,6/16/2023
+Used 2022 Ford F150 Raptor,"82,436",Used,2022,Date - Newest,0,Ford,6/16/2023
+New 2023 Chevrolet Tahoe Premier,"81,940",New,2023,Date - Newest,0,Chevrolet,6/16/2023
+New 2023 Toyota Sequoia Platinum,"81,278",New,2023,Date - Newest,0,Toyota,6/16/2023
+New 2023 Ford F150 Platinum,"80,760",New,2023,Date - Newest,0,Ford,6/16/2023
+New 2023 RAM 2500 Power Wagon,"80,675",New,2023,Date - Newest,0,,6/16/2023
+New 2023 RAM 3500 Tradesman,"80,515",New,2023,Date - Newest,0,,6/16/2023
+New 2023 Ford F150 Lariat,"80,345",New,2023,Date - Newest,0,Ford,6/16/2023
+New 2023 Ford F350 Lariat,"79,775",New,2023,Date - Newest,0,Ford,6/16/2023
+New 2023 RAM 2500 Laramie,"78,531",New,2023,Date - Newest,0,,6/16/2023
+Used 2022 GMC Sierra 1500 Denali Ultimate,"78,500",Used,2022,Date - Newest,0,GMC,6/16/2023
+Used 2023 GMC Sierra 2500 Denali,"78,290",Used,2023,Date - Newest,0,GMC,6/16/2023
+New 2023 Chevrolet Silverado 1500 ZR2,"77,855",New,2023,Date - Newest,0,Chevrolet,6/16/2023
+New 2023 Toyota Tundra TRD Pro,"76,994",New,2023,Date - Newest,0,Toyota,6/16/2023
+Used 2022 RAM 2500 Longhorn,"76,925",Used,2022,Date - Newest,0,,6/16/2023
+New 2023 Chevrolet Silverado 1500 ZR2,"76,755",New,2023,Date - Newest,0,Chevrolet,6/16/2023
+New 2023 Chevrolet Silverado 1500 ZR2,"76,755",New,2023,Date - Newest,0,Chevrolet,6/16/2023
+New 2023 Chevrolet Silverado 1500 ZR2,"76,755",New,2023,Date - Newest,0,Chevrolet,6/16/2023
+New 2023 Chevrolet Silverado 1500 ZR2,"76,755",New,2023,Date - Newest,0,Chevrolet,6/16/2023
+New 2023 Chevrolet Silverado 1500 ZR2,"76,755",New,2023,Date - Newest,0,Chevrolet,6/16/2023
+New 2023 Chevrolet Silverado 1500 ZR2,"76,310",New,2023,Date - Newest,0,Chevrolet,6/16/2023
+New 2023 Chevrolet Silverado 1500 ZR2,"76,310",New,2023,Date - Newest,0,Chevrolet,6/16/2023
+New 2022 RAM 2500 Power Wagon,"76,210",New,2022,Date - Newest,0,,6/16/2023
+Used 2019 Ford F350 King Ranch,"75,991",Used,2019,Date - Newest,0,Ford,6/16/2023
+Used 2021 Ford F250 Lariat,"75,981",Used,2021,Date - Newest,0,Ford,6/16/2023
+New 2023 RAM 1500 Limited,"75,815",New,2023,Date - Newest,0,,6/16/2023
+New 2023 Ford F250 4x4 Crew Cab Super Duty,"75,660",New,2023,Date - Newest,0,Ford,6/16/2023
+New 2023 Jeep Grand Cherokee L Summit,"75,555",New,2023,Date - Newest,0,Jeep,6/16/2023
+New 2023 Jeep Grand Cherokee L Summit,"75,555",New,2023,Date - Newest,0,Jeep,6/16/2023
+New 2023 Audi Q7 3.0T Premium Plus,"75,350",New,2023,Date - Newest,0,Audi,6/16/2023
+New 2023 Ford F150 4x4 SuperCrew Hybrid,"75,305",New,2023,Date - Newest,0,Ford,6/16/2023
+New 2023 Ford Expedition Limited,"75,272",New,2023,Date - Newest,0,Ford,6/16/2023
+New 2023 Jeep Grand Cherokee L Summit,"75,060",New,2023,Date - Newest,0,Jeep,6/16/2023
+New 2024 BMW X5 sDrive40i,"75,020",New,2024,Date - Newest,0,BMW,6/16/2023
+New 2024 Chevrolet Silverado 2500 High Country,"74,980",New,2024,Date - Newest,0,Chevrolet,6/16/2023
+New 2023 Ford F150 Tremor,"74,855",New,2023,Date - Newest,0,Ford,6/16/2023
+New 2023 Ford F150 Lariat,"74,680",New,2023,Date - Newest,0,Ford,6/16/2023
+New 2023 Chevrolet Silverado 1500 High Country,"74,495",New,2023,Date - Newest,0,Chevrolet,6/16/2023
+New 2023 GMC Yukon SLT,"74,485",New,2023,Date - Newest,0,GMC,6/16/2023
+New 2023 GMC Yukon SLT,"74,485",New,2023,Date - Newest,0,GMC,6/16/2023
+Used 2012 Nissan Versa SV,"6,863",Used,2012,Date - Oldest,"80,137 miles",Nissan,2023-06-16
+Certified 2019 Nissan Sentra SV,"16,150",Certified,2019,Date - Oldest,0,Nissan,2023-06-16
+Used 2019 MINI Cooper Countryman S,"26,691",Used,2019,Date - Oldest,880 miles,,2023-06-16
+Used 2015 Mercedes-Benz SLS AMG GT Final Edition,"499,999",Used,2015,Date - Oldest,"56,919 miles",Mercedes-Benz,2023-06-16
+New 2021 Mercedes-Benz GLA 250,"47,950",New,2021,Date - Oldest,0,Mercedes-Benz,2023-06-16
+New 2019 Mercedes-Benz C 300 Sedan,"94,960",New,2019,Date - Oldest,0,Mercedes-Benz,2023-06-16
+New 2021 Mercedes-Benz CLS 53 AMG 4MATIC,"42,935",New,2021,Date - Oldest,0,Mercedes-Benz,2023-06-16
+New 2021 Mercedes-Benz GLA 250,"19,995",New,2021,Date - Oldest,0,Mercedes-Benz,2023-06-16
+Used 2019 Ford Fiesta SE,"112,849",Used,2019,Date - Oldest,"73,732 miles",Ford,2023-06-16
+New 2021 Mercedes-Benz GLC 300,"50,830",New,2021,Date - Oldest,0,Mercedes-Benz,2023-06-16
+Used 2006 Chevrolet Colorado LT,"10,888",Used,2006,Date - Oldest,"22,030 miles",Chevrolet,2023-06-16
+New 2021 Mercedes-Benz GLC 300,"39,850",New,2021,Date - Oldest,0,Mercedes-Benz,2023-06-16
+Used 2003 Ford F150 XLT,"54,730",Used,2003,Date - Oldest,"6,142 miles",Ford,2023-06-16
+Used 2009 HUMMER H3T Alpha,"13,900",Used,2009,Date - Oldest,"8,784 miles",,2023-06-16
+New 2021 Mercedes-Benz GLC 300,"48,540",New,2021,Date - Oldest,0,Mercedes-Benz,2023-06-16
+Used 2016 Hyundai Veloster,"44,485",Used,2016,Date - Oldest,"21,049 miles",Hyundai,2023-06-16
+New 2021 Mercedes-Benz GLC 300,"52,995",New,2021,Date - Oldest,0,Mercedes-Benz,2023-06-16
+New 2020 Chevrolet Bolt Premier,"20,498",New,2020,Date - Oldest,0,Chevrolet,2023-06-16
+Used 2017 RAM 3500 Laramie,"399,880",Used,2017,Date - Oldest,"18,497 miles",,2023-06-16
+Used 2016 Volvo XC60 T6,"136,500",Used,2016,Date - Oldest,"20,659 miles",Volvo,2023-06-16
+Used 2017 Mercedes-Benz Maybach S 650 Cabriolet,"25,000",Used,2017,Date - Oldest,"20,745 miles",Mercedes-Benz,2023-06-16
+New 2021 Polestar Polestar 1,"50,000",New,2021,Date - Oldest,0,Polestar,2023-06-16
+Used 2021 BMW 330i Sedan,"28,799",Used,2021,Date - Oldest,"105,273 miles",BMW,2023-06-16
+Used 1988 Chevrolet Silverado 1500 4x4 Regular Cab,"49,984",Used,1988,Date - Oldest,"36,004 miles",Chevrolet,2023-06-16
+Used 2021 BMW 530i,"44,980",Used,2021,Date - Oldest,"38,550 miles",BMW,2023-06-16
+Used 2021 BMW X5 sDrive40i,"39,984",Used,2021,Date - Oldest,"34,387 miles",BMW,2023-06-16
+Used 2021 Ford Explorer Platinum,"42,941",Used,2021,Date - Oldest,"23,752 miles",Ford,2023-06-16
+Used 2021 BMW X3 sDrive30i,"49,984",Used,2021,Date - Oldest,"24,369 miles",BMW,2023-06-16
+Used 2021 BMW 330i Sedan,"39,984",Used,2021,Date - Oldest,"19,577 miles",BMW,2023-06-16
+Used 2021 BMW X3 sDrive30i,"38,777",Used,2021,Date - Oldest,"21,399 miles",BMW,2023-06-16
+Used 2021 BMW X3 M40i,"48,980",Used,2021,Date - Oldest,"20,686 miles",BMW,2023-06-16
+Used 2021 BMW X3 sDrive30i,"44,895",Used,2021,Date - Oldest,"20,447 miles",BMW,2023-06-16
+Used 2020 BMW 330i Sedan,"35,980",Used,2020,Date - Oldest,"13,359 miles",BMW,2023-06-16
+Used 2021 BMW X3 sDrive30i,"12,900",Used,2021,Date - Oldest,"20,732 miles",BMW,2023-06-16
+Used 2016 Land Rover Range Rover Sport HSE,"10,850",Used,2016,Date - Oldest,"36,720 miles",Land Rover,2023-06-16
+Used 2016 Land Rover Range Rover Sport HSE,"10,850",Used,2016,Date - Oldest,"36,720 miles",Rover,2023-06-16
+Certified 2021 BMW M340i,"51,780",Certified,2021,Date - Oldest,0,BMW,2023-06-16
+Certified 2021 BMW X3 xDrive30i,"22,495",Certified,2021,Date - Oldest,0,BMW,2023-06-16
+Certified 2021 BMW X3 sDrive30i,"46,387",Certified,2021,Date - Oldest,0,BMW,2023-06-16
+Used 2021 BMW 540i,"44,476",Used,2021,Date - Oldest,"20,060 miles",BMW,2023-06-16
+Used 2021 BMW M340i,"16,900",Used,2021,Date - Oldest,"20,652 miles",BMW,2023-06-16
+Used 2020 BMW X3 sDrive30i,"11,999",Used,2020,Date - Oldest,"40,297 miles",BMW,2023-06-16
+Used 2021 BMW X3 xDrive30i,"29,590",Used,2021,Date - Oldest,"38,446 miles",BMW,2023-06-16
+Used 2021 BMW X3 sDrive30i,"54,890",Used,2021,Date - Oldest,"43,350 miles",BMW,2023-06-16
+Used 2021 BMW X3 xDrive30i,"39,495",Used,2021,Date - Oldest,"21,980 miles",BMW,2023-06-16
+Used 2021 BMW X3 xDrive30i,"31,995",Used,2021,Date - Oldest,"20,553 miles",BMW,2023-06-16
+Used 2021 BMW X3 xDrive30i,"14,900",Used,2021,Date - Oldest,"40,821 miles",BMW,2023-06-16
+Certified 2021 BMW 530i,"11,398",Certified,2021,Date - Oldest,0,BMW,2023-06-16
+Used 2021 BMW X3 sDrive30i,"45,995",Used,2021,Date - Oldest,"41,836 miles",BMW,2023-06-16
+Used 2020 BMW 330i Sedan,"29,995",Used,2020,Date - Oldest,"20,375 miles",BMW,2023-06-16
+Used 2021 BMW M340i,"73,978",Used,2021,Date - Oldest,"21,229 miles",BMW,2023-06-16
+Used 2021 BMW 530i,"27,950",Used,2021,Date - Oldest,"20,455 miles",BMW,2023-06-16
+Used 2020 BMW 540i,"9,850",Used,2020,Date - Oldest,"178,000 miles",BMW,2023-06-16
+Certified 2021 BMW M340i,"15,900",Certified,2021,Date - Oldest,0,BMW,2023-06-16
+Certified 2021 BMW 530i,"14,998",Certified,2021,Date - Oldest,0,BMW,2023-06-16
+Certified 2020 BMW X3 sDrive30i,"33,900",Certified,2020,Date - Oldest,0,BMW,2023-06-16
+Used 2020 BMW 330i Sedan,"9,988",Used,2020,Date - Oldest,"20,254 miles",BMW,2023-06-16
+Used 2021 BMW X3 sDrive30i,"49,355",Used,2021,Date - Oldest,"4,112 miles",BMW,2023-06-16
+Certified 2021 BMW 540i,"19,222",Certified,2021,Date - Oldest,0,BMW,2023-06-16
+Used 2018 BMW X2 xDrive28i,"77,984",Used,2018,Date - Oldest,"107,180 miles",BMW,2023-06-16
+Certified 2020 BMW 330i Sedan,"40,995",Certified,2020,Date - Oldest,0,BMW,2023-06-16
+Used 2020 BMW 330i Sedan,"48,984",Used,2020,Date - Oldest,"8,510 miles",BMW,2023-06-16
+Used 2021 BMW X3 sDrive30i,"43,705",Used,2021,Date - Oldest,"47,709 miles",BMW,2023-06-16
+Used 2021 BMW M340i,"36,182",Used,2021,Date - Oldest,"5,136 miles",BMW,2023-06-16
+Used 2013 Chevrolet Suburban LT,"20,900",Used,2013,Date - Oldest,"94,121 miles",Chevrolet,2023-06-16
+Used 2011 Audi A6 3.0T Prestige,"28,995",Used,2011,Date - Oldest,"99,174 miles",Audi,2023-06-16
+New 2021 Mercedes-Benz GLC 300,"11,900",New,2021,Date - Oldest,0,Mercedes-Benz,2023-06-16
+Used 2017 Chevrolet Suburban LT,"8,950",Used,2017,Date - Oldest,"139,575 miles",Chevrolet,2023-06-16
+Used 2021 BMW 330i Sedan,"4,395",Used,2021,Date - Oldest,"9,688 miles",BMW,2023-06-16
+Used 2012 Nissan Versa SV,"6,863",Used,2012,Price - Lowest,5 miles,Nissan,2023-06-16
+New 2023 GMC Sierra 1500 SLE,"48,235",New,2023,Price - Lowest,0,GMC,2023-06-16
+Used 2018 Toyota RAV4 Limited,"28,594",Used,2018,Price - Lowest,"131,598 miles",Toyota,2023-06-16
+Used 2010 Chrysler Sebring Touring,800,Used,2010,Price - Lowest,"204,000 miles",Chrysler,2023-06-16
+Used 2007 Volvo XC70,"1,499",Used,2007,Price - Lowest,"220,000 miles",Volvo,2023-06-16
+Used 1995 Nissan Sentra,"1,500",Used,1995,Price - Lowest,"170,000 miles",Nissan,2023-06-16
+Used 1999 Isuzu Rodeo S,"1,700",Used,1999,Price - Lowest,"103,000 miles",Isuzu,2023-06-16
+Used 2004 Suzuki Aerio SX,"1,900",Used,2004,Price - Lowest,"37,488 miles",Suzuki,2023-06-16
+Used 2020 Chevrolet Silverado 1500 RST,"50,990",Used,2020,Price - Lowest,"210,000 miles",Chevrolet,2023-06-16
+Used 2004 Mitsubishi Montero Sport XLS,"1,995",Used,2004,Price - Lowest,"235,000 miles",Mitsubishi,2023-06-16
+Used 2008 Chevrolet Impala LS,"1,999",Used,2008,Price - Lowest,"244,000 miles",Chevrolet,2023-06-16
+Used 2002 Honda CR-V EX,"2,000",Used,2002,Price - Lowest,"206,209 miles",Honda,2023-06-16
+Used 2010 INFINITI G37 Sport,"2,000",Used,2010,Price - Lowest,"220,000 miles",,2023-06-16
+Used 2007 Chrysler Town & Country LX,"2,000",Used,2007,Price - Lowest,"107,000 miles",Chrysler,2023-06-16
+Used 2007 Chrysler Town & Country LX,"2,000",Used,2007,Price - Lowest,"107,000 miles",&,2023-06-16
+Used 2008 Chevrolet Aveo5,"2,394",Used,2008,Price - Lowest,"149,000 miles",Chevrolet,2023-06-16
+Used 2007 Dodge Caliber SXT,"2,500",Used,2007,Price - Lowest,"199,000 miles",Dodge,2023-06-16
+Used 1999 Chevrolet Suburban 2WD,"2,500",Used,1999,Price - Lowest,"155,937 miles",Chevrolet,2023-06-16
+Used 2003 Ford F250 XL,"2,800",Used,2003,Price - Lowest,"150,010 miles",Ford,2023-06-16
+Used 1997 Ford Ranger XLT,"2,942",Used,1997,Price - Lowest,"214,203 miles",Ford,2023-06-16
+Used 1993 Nissan Pathfinder XE,"2,942",Used,1993,Price - Lowest,"128,304 miles",Nissan,2023-06-16
+Used 2000 Ford F150 2WD SuperCab,"2,942",Used,2000,Price - Lowest,"228,548 miles",Ford,2023-06-16
+Used 1999 Ford E-150 and Econoline 150 Wagon,"2,995",Used,1999,Price - Lowest,"204,525 miles",Ford,2023-06-16
+Used 1999 Ford E-150 and Econoline 150 Wagon,"2,995",Used,1999,Price - Lowest,"204,525 miles",and,2023-06-16
+Used 2007 Pontiac G6 Sedan,"2,995",Used,2007,Price - Lowest,"173,935 miles",,2023-06-16
+Used 1994 Mercury Grand Marquis GS,"2,995",Used,1994,Price - Lowest,"84,328 miles",,2023-06-16
+Used 2013 Volkswagen Jetta SE,"2,999",Used,2013,Price - Lowest,"331,361 miles",Volkswagen,2023-06-16
+Used 2009 Toyota Camry,"2,999",Used,2009,Price - Lowest,"190,000 miles",Toyota,2023-06-16
+Used 2004 Pontiac Grand Am SE,"2,999",Used,2004,Price - Lowest,"121,803 miles",,2023-06-16
+Used 1992 Buick Le Sabre Limited,"2,999",Used,1992,Price - Lowest,"96,000 miles",Buick,2023-06-16
+Used 2007 Chrysler PT Cruiser,"3,000",Used,2007,Price - Lowest,"103,000 miles",Chrysler,2023-06-16
+Used 1997 Jaguar XJ6,"3,000",Used,1997,Price - Lowest,"190,583 miles",Jaguar,2023-06-16
+Used 2006 INFINITI M35,"3,000",Used,2006,Price - Lowest,"152,120 miles",,2023-06-16
+Used 2009 Hyundai Santa Fe GLS,"3,000",Used,2009,Price - Lowest,"262,417 miles",Hyundai,2023-06-16
+Used 2006 Toyota Highlander 2WD,"3,000",Used,2006,Price - Lowest,"239,000 miles",Toyota,2023-06-16
+Used 1992 Toyota Corolla Deluxe,"3,300",Used,1992,Price - Lowest,"210,000 miles",Toyota,2023-06-16
+Used 2007 Scion tC,"3,499",Used,2007,Price - Lowest,"269,854 miles",,2023-06-16
+Used 2000 Volkswagen Jetta GLS,"3,500",Used,2000,Price - Lowest,"233,000 miles",Volkswagen,2023-06-16
+Used 2002 Chevrolet Avalanche 4x4,"3,500",Used,2002,Price - Lowest,"220,000 miles",Chevrolet,2023-06-16
+Used 2008 Chevrolet Malibu LT,"3,900",Used,2008,Price - Lowest,"111,111 miles",Chevrolet,2023-06-16
+Used 2002 Ford Explorer XLS,"3,900",Used,2002,Price - Lowest,"181,164 miles",Ford,2023-06-16
+Used 2006 MAZDA MX-5 Miata Grand Touring,"3,950",Used,2006,Price - Lowest,"186,209 miles",,2023-06-16
+Used 2006 Chevrolet TrailBlazer LS,"3,995",Used,2006,Price - Lowest,"127,027 miles",Chevrolet,2023-06-16
+Used 2008 Dodge Caliber SE,"3,995",Used,2008,Price - Lowest,"150,000 miles",Dodge,2023-06-16
+Used 2001 Ford Mustang Coupe,"3,995",Used,2001,Price - Lowest,"200,000 miles",Ford,2023-06-16
+Used 2008 Mercury Mariner 2WD V6,"3,995",Used,2008,Price - Lowest,"249,000 miles",,2023-06-16
+Used 2005 Toyota Prius,"3,995",Used,2005,Price - Lowest,"148,000 miles",Toyota,2023-06-16
+Used 2004 Chevrolet Impala,"3,995",Used,2004,Price - Lowest,"168,250 miles",Chevrolet,2023-06-16
+Used 2006 Chrysler 300,"3,995",Used,2006,Price - Lowest,"156,958 miles",Chrysler,2023-06-16
+Used 2009 Hyundai Sonata GLS,"3,995",Used,2009,Price - Lowest,"220,000 miles",Hyundai,2023-06-16
+Used 2003 Toyota Tundra Limited,"3,998",Used,2003,Price - Lowest,"172,011 miles",Toyota,2023-06-16
+Used 2006 INFINITI M35,"3,999",Used,2006,Price - Lowest,"183,141 miles",,2023-06-16
+Used 2005 Scion xB,"3,999",Used,2005,Price - Lowest,"187,000 miles",,2023-06-16
+Used 2002 Mercedes-Benz S 430,"3,999",Used,2002,Price - Lowest,"164,098 miles",Mercedes-Benz,2023-06-16
+Used 2002 Honda Accord EX,"3,999",Used,2002,Price - Lowest,"207,340 miles",Honda,2023-06-16
+Used 2012 Chevrolet Impala LS,"3,999",Used,2012,Price - Lowest,"221,000 miles",Chevrolet,2023-06-16
+Used 2005 Chevrolet Malibu LT,"3,999",Used,2005,Price - Lowest,"242,000 miles",Chevrolet,2023-06-16
+Used 2001 Toyota Sienna CE,"3,999",Used,2001,Price - Lowest,"216,419 miles",Toyota,2023-06-16
+Used 2009 Nissan Versa 1.8 S,"4,000",Used,2009,Price - Lowest,"175,443 miles",Nissan,2023-06-16
+Used 1999 Ford Taurus SE,"4,000",Used,1999,Price - Lowest,"146,467 miles",Ford,2023-06-16
+Used 2005 Honda Accord LX,"4,000",Used,2005,Price - Lowest,"85,846 miles",Honda,2023-06-16
+Used 1998 Cadillac Eldorado Touring,"4,000",Used,1998,Price - Lowest,"230,000 miles",Cadillac,2023-06-16
+Used 2003 Toyota 4Runner Sport,"4,000",Used,2003,Price - Lowest,"188,250 miles",Toyota,2023-06-16
+Used 2009 Ford Escape Limited,"4,000",Used,2009,Price - Lowest,"203,675 miles",Ford,2023-06-16
+Used 2001 Ford Explorer Sport Trac 2WD,"4,000",Used,2001,Price - Lowest,"229,950 miles",Ford,2023-06-16
+Used 2006 Toyota Sienna CE,"4,000",Used,2006,Price - Lowest,"155,367 miles",Toyota,2023-06-16
+Used 2015 GMC Yukon XL Denali,"4,176",Used,2015,Price - Lowest,"178,586 miles",GMC,2023-06-16
+Used 2007 Buick Lucerne CX,"4,395",Used,2007,Price - Lowest,"230,000 miles",Buick,2023-06-16
+Used 2005 Honda CR-V EX,"4,399",Used,2005,Price - Lowest,"193,933 miles",Honda,2023-06-16
+Used 2009 Chevrolet Malibu LT,"4,442",Used,2009,Price - Lowest,"146,592 miles",Chevrolet,2023-06-16
+Used 2006 Kia Sorento 2WD,"4,488",Used,2006,Price - Lowest,"194,860 miles",Kia,2023-06-16
+Used 2004 INFINITI G35 Sedan,"4,489",Used,2004,Price - Lowest,"213,693 miles",,2023-06-16
+Used 2003 Ford F150 XLT,"4,499",Used,2003,Price - Lowest,"191,952 miles",Ford,2023-06-16
+Used 2003 Honda Accord EX,"4,500",Used,2003,Price - Lowest,"197,953 miles",Honda,2023-06-16
+Used 2003 Cadillac De Ville,"4,500",Used,2003,Price - Lowest,"227,930 miles",Cadillac,2023-06-16
+Used 2006 Toyota Corolla CE,"4,500",Used,2006,Price - Lowest,"173,218 miles",Toyota,2023-06-16
+Used 2009 Mercedes-Benz C 300 Sedan,"4,500",Used,2009,Price - Lowest,"135,978 miles",Mercedes-Benz,2023-06-16
+Used 2011 Nissan Versa Sedan,"4,595",Used,2011,Price - Lowest,"92,071 miles",Nissan,2023-06-16
+Used 1998 Toyota Camry CE,"4,600",Used,1998,Price - Lowest,"125,913 miles",Toyota,2023-06-16
+Used 2006 Chevrolet Malibu LT,"4,700",Used,2006,Price - Lowest,"205,396 miles",Chevrolet,2023-06-16
+Used 2007 Toyota Avalon XLS,"4,700",Used,2007,Price - Lowest,"183,029 miles",Toyota,2023-06-16
+Used 2002 Honda Civic LX,"4,750",Used,2002,Price - Lowest,"150,000 miles",Honda,2023-06-16
+Used 2005 Subaru Forester 2.5X,"4,750",Used,2005,Price - Lowest,"202,708 miles",Subaru,2023-06-16
+Used 2010 Kia Forte LX,"4,753",Used,2010,Price - Lowest,"232,000 miles",Kia,2023-06-16
+Used 2014 Ford C-MAX SE,"4,799",Used,2014,Price - Lowest,"151,000 miles",Ford,2023-06-16
+Used 2002 Lincoln Town Car Signature,"4,800",Used,2002,Price - Lowest,"130,556 miles",Lincoln,2023-06-16
+Used 2002 Lincoln Town Car Signature,"4,800",Used,2002,Price - Lowest,"130,556 miles",Car,2023-06-16
+Used 2007 Chevrolet Cobalt LT,"4,850",Used,2007,Price - Lowest,"179,069 miles",Chevrolet,2023-06-16
+Used 2006 MINI Cooper Hardtop,"4,888",Used,2006,Price - Lowest,"229,965 miles",,2023-06-16
+Used 2000 Toyota Sienna XLE,"4,888",Used,2000,Price - Lowest,"81,188 miles",Toyota,2023-06-16
+Used 2012 FIAT 500 Sport,"4,900",Used,2012,Price - Lowest,"169,768 miles",,2023-06-16
+Used 2003 Honda Element DX,"4,950",Used,2003,Price - Lowest,"129,143 miles",Honda,2023-06-16
+Used 1997 Dodge Ram 1500 Truck 2WD Club Cab,"4,950",Used,1997,Price - Lowest,"193,866 miles",Dodge,2023-06-16
+Used 1997 Dodge Ram 1500 Truck 2WD Club Cab,"4,950",Used,1997,Price - Lowest,"193,866 miles",Ram,2023-06-16
+Used 1997 Dodge Ram 1500 Truck 2WD Club Cab,"4,950",Used,1997,Price - Lowest,"193,866 miles",Truck,2023-06-16
+Used 2010 MAZDA MAZDA3 i Sport,"4,991",Used,2010,Price - Lowest,"135,518 miles",,2023-06-16
+Used 2003 BMW 525i Sedan,"4,991",Used,2003,Price - Lowest,"216,812 miles",BMW,2023-06-16
+Used 2008 Mitsubishi Lancer ES,"4,991",Used,2008,Price - Lowest,"207,134 miles",Mitsubishi,2023-06-16
+Used 2012 Ford Expedition XLT,"4,995",Used,2012,Price - Lowest,"244,157 miles",Ford,2023-06-16
+Used 2004 Dodge Durango ST,"4,995",Used,2004,Price - Lowest,"149,662 miles",Dodge,2023-06-16
+Used 2011 Chevrolet Cruze Eco,"4,995",Used,2011,Price - Lowest,"218,718 miles",Chevrolet,2023-06-16
+Used 2008 Toyota Camry LE,"4,995",Used,2008,Price - Lowest,"190,445 miles",Toyota,2023-06-16
+Used 2005 Jeep Grand Cherokee Laredo,"4,995",Used,2005,Price - Lowest,"145,241 miles",Jeep,2023-06-16
+Used 2004 Ford Expedition XLT,"4,995",Used,2004,Price - Lowest,"174,694 miles",Ford,2023-06-16
+Used 2011 Chevrolet HHR LS,"4,995",Used,2011,Price - Lowest,"182,475 miles",Chevrolet,2023-06-16
+Used 2007 Toyota Camry Hybrid,"4,995",Used,2007,Price - Lowest,"167,954 miles",Toyota,2023-06-16
+Used 2008 GMC Envoy SLE,"4,995",Used,2008,Price - Lowest,"139,650 miles",GMC,2023-06-16
+Used 2010 Audi Q5 3.2 Premium Plus,"4,995",Used,2010,Price - Lowest,"223,022 miles",Audi,2023-06-16
+Used 2006 Honda Accord EX-L,"4,995",Used,2006,Price - Lowest,0,Honda,2023-06-16
+Used 2005 Ford Escape XLT,"7,286",Used,2005,Mileage - Highest,"6,207 miles",Ford,2023-06-16
+Used 2022 Chevrolet Silverado 1500 LT,"50,639",Used,2022,Mileage - Highest,11 miles,Chevrolet,2023-06-16
+New 2023 Ford F150 XLT,"62,995",New,2023,Mileage - Highest,0,Ford,2023-06-16
+Used 2018 Mercedes-Benz GLC 300,"26,991",Used,2018,Mileage - Highest,"559,798 miles",Mercedes-Benz,2023-06-16
+Used 2018 GMC Sierra 1500 SLT,"39,994",Used,2018,Mileage - Highest,"400,000 miles",GMC,2023-06-16
+Used 2000 Ford Excursion Limited,"15,000",Used,2000,Mileage - Highest,"380,000 miles",Ford,2023-06-16
+Used 2007 Toyota Tacoma PreRunner,"10,157",Used,2007,Mileage - Highest,"363,680 miles",Toyota,2023-06-16
+Used 2015 Honda CR-V Touring,"10,355",Used,2015,Mileage - Highest,"136,539 miles",Honda,2023-06-16
+Used 2013 Toyota Corolla S,"19,795",Used,2013,Mileage - Highest,"352,637 miles",Toyota,2023-06-16
+Used 2013 Ford F250 XLT,"18,995",Used,2013,Mileage - Highest,"350,000 miles",Ford,2023-06-16
+Used 2003 Ford F250 XL,"15,395",Used,2003,Mileage - Highest,"346,968 miles",Ford,2023-06-16
+Used 2011 Chevrolet Silverado 2500 W/T,"2,999",Used,2011,Mileage - Highest,"337,827 miles",Chevrolet,2023-06-16
+Used 2001 Ford F250 XLT,"9,400",Used,2001,Mileage - Highest,"331,361 miles",Ford,2023-06-16
+Used 2009 Toyota Camry,"23,595",Used,2009,Mileage - Highest,"329,894 miles",Toyota,2023-06-16
+Used 2004 Nissan 350Z Touring,"35,000",Used,2004,Mileage - Highest,"323,182 miles",Nissan,2023-06-16
+Used 2014 Ford F350 XL,"20,985",Used,2014,Mileage - Highest,"320,776 miles",Ford,2023-06-16
+Used 2017 RAM 2500 Laramie,"19,595",Used,2017,Mileage - Highest,"319,421 miles",,2023-06-16
+Used 2004 Ford Excursion Limited,"17,995",Used,2004,Mileage - Highest,"317,543 miles",Ford,2023-06-16
+Used 2008 GMC Sierra 3500 SLT,"9,900",Used,2008,Mileage - Highest,"310,600 miles",GMC,2023-06-16
+Used 2011 Ford F350 XLT,"16,000",Used,2011,Mileage - Highest,"302,251 miles",Ford,2023-06-16
+Used 2012 Chevrolet Silverado 3500 W/T,"14,995",Used,2012,Mileage - Highest,"300,600 miles",Chevrolet,2023-06-16
+Used 2000 Toyota Land Cruiser,"16,900",Used,2000,Mileage - Highest,"300,000 miles",Toyota,2023-06-16
+Used 2000 Toyota Land Cruiser,"16,900",Used,2000,Mileage - Highest,"300,000 miles",Land Rover,2023-06-16
+"Used 2016 Ford Transit 250 130"" Low Roof","43,093",Used,2016,Mileage - Highest,"299,784 miles",Ford,2023-06-16
+Used 2015 Ford F350 XL,"7,500",Used,2015,Mileage - Highest,"297,000 miles",Ford,2023-06-16
+Used 2009 Dodge Ram 3500 Truck SLT,"6,995",Used,2009,Mileage - Highest,"296,468 miles",Dodge,2023-06-16
+Used 2009 Dodge Ram 3500 Truck SLT,"6,995",Used,2009,Mileage - Highest,"296,468 miles",Ram,2023-06-16
+Used 2009 Dodge Ram 3500 Truck SLT,"6,995",Used,2009,Mileage - Highest,"296,468 miles",Truck,2023-06-16
+Used 2017 Ford F250 XLT,"7,991",Used,2017,Mileage - Highest,"290,000 miles",Ford,2023-06-16
+New 2023 Subaru WRX GT,"22,599",New,2023,Mileage - Highest,0,Subaru,2023-06-16
+Used 2019 Subaru Crosstrek 2.0i Premium,"10,999",Used,2019,Mileage - Highest,"287,242 miles",Subaru,2023-06-16
+Used 2010 Toyota Prius Three,"14,400",Used,2010,Mileage - Highest,"282,315 miles",Toyota,2023-06-16
+Used 2011 Toyota Camry LE,"6,500",Used,2011,Mileage - Highest,"277,919 miles",Toyota,2023-06-16
+Used 2014 Chevrolet Silverado 2500 LT,"15,490",Used,2014,Mileage - Highest,"276,592 miles",Chevrolet,2023-06-16
+Used 2015 Chevrolet Silverado 3500 LT,"24,599",Used,2015,Mileage - Highest,"276,527 miles",Chevrolet,2023-06-16
+Used 2001 Honda Civic EX,"12,950",Used,2001,Mileage - Highest,"274,104 miles",Honda,2023-06-16
+Used 2017 Nissan Rogue SV,"20,595",Used,2017,Mileage - Highest,"273,754 miles",Nissan,2023-06-16
+Used 2007 Chevrolet Silverado 1500 LS,"9,500",Used,2007,Mileage - Highest,"273,365 miles",Chevrolet,2023-06-16
+Used 2006 Dodge Ram 3500 Truck SLT,"3,500",Used,2006,Mileage - Highest,"272,750 miles",Dodge,2023-06-16
+Used 2006 Dodge Ram 3500 Truck SLT,"3,500",Used,2006,Mileage - Highest,"272,750 miles",Ram,2023-06-16
+Used 2006 Dodge Ram 3500 Truck SLT,"3,500",Used,2006,Mileage - Highest,"272,750 miles",Truck,2023-06-16
+Used 2012 RAM 2500 Longhorn,"8,950",Used,2012,Mileage - Highest,"270,026 miles",,2023-06-16
+Used 2000 Lexus LX 470 4WD,"8,000",Used,2000,Mileage - Highest,"270,000 miles",Lexus,2023-06-16
+Used 2012 RAM 3500 ST,"3,000",Used,2012,Mileage - Highest,"269,854 miles",,2023-06-16
+Used 2002 Ford Excursion Limited,"7,060",Used,2002,Mileage - Highest,"266,463 miles",Ford,2023-06-16
+Used 2000 Volkswagen Jetta GLS,"9,991",Used,2000,Mileage - Highest,"265,088 miles",Volkswagen,2023-06-16
+Used 1996 Toyota 4Runner SR5,"6,985",Used,1996,Mileage - Highest,"264,000 miles",Toyota,2023-06-16
+Used 2010 Toyota Tacoma 2WD Access Cab,"12,999",Used,2010,Mileage - Highest,"262,417 miles",Toyota,2023-06-16
+Used 2004 Honda Accord EX,"8,991",Used,2004,Mileage - Highest,"262,298 miles",Honda,2023-06-16
+Used 2006 Toyota Highlander 2WD,"9,750",Used,2006,Mileage - Highest,"261,872 miles",Toyota,2023-06-16
+Used 2004 Ford F150 4x4 SuperCrew,"22,998",Used,2004,Mileage - Highest,"259,981 miles",Ford,2023-06-16
+Used 2005 Toyota Camry LE,"7,995",Used,2005,Mileage - Highest,"258,143 miles",Toyota,2023-06-16
+Used 2008 Toyota Sequoia SR5,"16,995",Used,2008,Mileage - Highest,"257,721 miles",Toyota,2023-06-16
+Used 2010 Chevrolet Camaro LT,"7,995",Used,2010,Mileage - Highest,"257,056 miles",Chevrolet,2023-06-16
+Used 2006 Ford F350 Lariat,"5,347",Used,2006,Mileage - Highest,"256,812 miles",Ford,2023-06-16
+Used 2009 Ford F150 XLT,"6,999",Used,2009,Mileage - Highest,"254,005 miles",Ford,2023-06-16
+Used 2010 Dodge Ram 1500 Truck Laramie,"7,215",Used,2010,Mileage - Highest,"253,846 miles",Dodge,2023-06-16
+Used 2010 Dodge Ram 1500 Truck Laramie,"7,215",Used,2010,Mileage - Highest,"253,846 miles",Ram,2023-06-16
+Used 2010 Dodge Ram 1500 Truck Laramie,"7,215",Used,2010,Mileage - Highest,"253,846 miles",Truck,2023-06-16
+Used 2015 RAM 3500 SLT,"4,999",Used,2015,Mileage - Highest,"252,950 miles",,2023-06-16
+Used 2008 Ford F150 XL,"4,995",Used,2008,Mileage - Highest,"252,898 miles",Ford,2023-06-16
+Used 2015 Chevrolet Silverado 2500 W/T,"18,885",Used,2015,Mileage - Highest,"251,100 miles",Chevrolet,2023-06-16
+Used 2006 Ford F150 XLT,"6,000",Used,2006,Mileage - Highest,"250,332 miles",Ford,2023-06-16
+Used 2002 Toyota Corolla CE,"22,995",Used,2002,Mileage - Highest,"250,321 miles",Toyota,2023-06-16
+Used 2002 Toyota 4Runner SR5,"3,995",Used,2002,Mileage - Highest,"250,000 miles",Toyota,2023-06-16
+Used 2007 Toyota Corolla S,"5,885",Used,2007,Mileage - Highest,"250,000 miles",Toyota,2023-06-16
+Used 2005 Ford F150 XLT,"6,800",Used,2005,Mileage - Highest,"249,787 miles",Ford,2023-06-16
+Used 1992 Ford E-150 and Econoline 150,"21,800",Used,1992,Mileage - Highest,"249,543 miles",Ford,2023-06-16
+Used 1992 Ford E-150 and Econoline 150,"21,800",Used,1992,Mileage - Highest,"249,543 miles",and,2023-06-16
+Used 2006 Toyota Land Cruiser,"17,995",Used,2006,Mileage - Highest,"249,537 miles",Toyota,2023-06-16
+Used 2006 Toyota Land Cruiser,"17,995",Used,2006,Mileage - Highest,"249,537 miles",Land Rover,2023-06-16
+Used 2005 Toyota Prius,"5,888",Used,2005,Mileage - Highest,"249,000 miles",Toyota,2023-06-16
+Used 2011 Ford F250 King Ranch,"4,995",Used,2011,Mileage - Highest,"248,919 miles",Ford,2023-06-16
+Used 2005 Toyota Prius,"2,000",Used,2005,Mileage - Highest,"248,387 miles",Toyota,2023-06-16
+Used 2005 Honda CR-V LX,"8,000",Used,2005,Mileage - Highest,"248,300 miles",Honda,2023-06-16
+Used 2007 Lexus ES 350,"3,999",Used,2007,Mileage - Highest,"246,353 miles",Lexus,2023-06-16
+Used 2002 Chevrolet Suburban 2500 LS,"13,995",Used,2002,Mileage - Highest,"245,510 miles",Chevrolet,2023-06-16
+Used 2012 RAM 2500 ST,"5,000",Used,2012,Mileage - Highest,"244,906 miles",,2023-06-16
+Used 2014 Toyota Tundra SR5,"10,900",Used,2014,Mileage - Highest,"244,157 miles",Toyota,2023-06-16
+Used 2010 Ford Escape Limited,"37,990",Used,2010,Mileage - Highest,"244,000 miles",Ford,2023-06-16
+Used 2004 Dodge Durango ST,"10,995",Used,2004,Mileage - Highest,"242,135 miles",Dodge,2023-06-16
+Used 2002 Honda CR-V EX,"15,985",Used,2002,Mileage - Highest,"242,000 miles",Honda,2023-06-16
+Used 2011 Toyota Venza AWD,"8,950",Used,2011,Mileage - Highest,"241,105 miles",Toyota,2023-06-16
+Used 2001 Toyota Sienna CE,"11,999",Used,2001,Mileage - Highest,"240,871 miles",Toyota,2023-06-16
+Used 2014 Toyota Tundra SR5,"3,300",Used,2014,Mileage - Highest,"240,211 miles",Toyota,2023-06-16
+Used 2004 Honda CR-V LX,"8,995",Used,2004,Mileage - Highest,"240,088 miles",Honda,2023-06-16
+Used 2007 Toyota Tundra SR5,"21,985",Used,2007,Mileage - Highest,"239,563 miles",Toyota,2023-06-16
+Used 2017 Ford F350 Lariat,"6,995",Used,2017,Mileage - Highest,"239,446 miles",Ford,2023-06-16
+Used 2013 Toyota Tundra 2WD CrewMax,"10,888",Used,2013,Mileage - Highest,"239,341 miles",Toyota,2023-06-16
+Used 2015 Toyota Highlander XLE,"9,995",Used,2015,Mileage - Highest,"239,291 miles",Toyota,2023-06-16
+Used 2007 Toyota 4Runner Sport,"23,995",Used,2007,Mileage - Highest,"239,000 miles",Toyota,2023-06-16
+Used 2009 Chevrolet Silverado 3500 W/T,"25,999",Used,2009,Mileage - Highest,"238,828 miles",Chevrolet,2023-06-16
+Used 1992 Toyota Corolla Deluxe,"9,000",Used,1992,Mileage - Highest,"238,718 miles",Toyota,2023-06-16
+Used 2004 Chevrolet Tahoe Z71,"7,991",Used,2004,Mileage - Highest,"238,558 miles",Chevrolet,2023-06-16
+"Used 2016 Ford Transit 250 148"" High Roof","8,995",Used,2016,Mileage - Highest,"237,893 miles",Ford,2023-06-16
+Used 2010 Honda Element LX,"10,985",Used,2010,Mileage - Highest,"237,127 miles",Honda,2023-06-16
+Used 2013 Ford Focus Titanium,"15,921",Used,2013,Mileage - Highest,"236,420 miles",Ford,2023-06-16
+Used 2003 Ford F150 XLT,"1,999",Used,2003,Mileage - Highest,"236,397 miles",Ford,2023-06-16
+Used 2013 Toyota RAV4 XLE,"21,985",Used,2013,Mileage - Highest,"236,000 miles",Toyota,2023-06-16
+Used 2011 Ford F350 XL,"5,950",Used,2011,Mileage - Highest,"236,000 miles",Ford,2023-06-16
+Used 2012 RAM 3500 SLT,"8,998",Used,2012,Mileage - Highest,"235,982 miles",,2023-06-16
+Used 2000 Toyota 4Runner Limited,"17,991",Used,2000,Mileage - Highest,"235,691 miles",Toyota,2023-06-16
+Used 2014 Honda Civic EX,"13,485",Used,2014,Mileage - Highest,"235,605 miles",Honda,2023-06-16
